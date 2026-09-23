@@ -1,7 +1,7 @@
 Integrantes:
 
-Daniel Ricardo Toro Ibarguen
-Arnold Cabrera Gutierres
+Daniel Ricardo Toro Ibarguen, 
+Arnold Cabrera Gutierrez
 
 
 
